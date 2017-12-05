@@ -6,5 +6,8 @@ let g:neomake_info_sign = {'text': 'i', 'texthl': 'DiffText'}
 
 let g:neomake_javascript_enabled_makers = ['eslint']
 
+let g:neomake_go_enabled_makers = ['go', 'gometalinter', 'golint']
+let g:go_fmt_autosave = 1
+
 " configure neomake to run on write
 call neomake#configure#automake('w')
