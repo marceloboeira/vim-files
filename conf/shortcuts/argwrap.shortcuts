@@ -1,0 +1,3 @@
+" vim: ft=vim
+" set argwrap shortcuts
+noremap <silent><leader>x   :ArgWrap<CR>

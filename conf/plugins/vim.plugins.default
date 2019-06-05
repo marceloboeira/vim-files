@@ -33,6 +33,7 @@ Plug 'tpope/vim-dispatch'
 Plug 'tmux-plugins/vim-tmux'
 Plug 'tmux-plugins/vim-tmux-focus-events'
 Plug 'editorconfig/editorconfig-vim'
+Plug 'FooSoft/vim-argwrap'
 
 " improvement
 Plug 'kien/ctrlp.vim'
