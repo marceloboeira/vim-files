@@ -1,0 +1,3 @@
+" vim: ft=vim
+" alternate
+noremap <silent><leader>a  :A<CR>
